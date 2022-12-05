@@ -31,3 +31,4 @@
 * [Day 1: Calorie Counting](/src/main/kotlin/Day01.kt)
 * [Day 2: Rock Paper Scissors](/src/main/kotlin/Day02.kt)
 * [Day 3: Rucksack Reorganization](/src/main/kotlin/Day03.kt)
+* [Day 4: Camp Cleanup](/src/main/kotlin/Day04.kt)
