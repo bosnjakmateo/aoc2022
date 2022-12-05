@@ -1,0 +1,1 @@
+fun List<String>.filterNotEmpty() = this.filter { it.isNotEmpty() }
