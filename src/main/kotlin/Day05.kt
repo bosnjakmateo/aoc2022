@@ -53,7 +53,7 @@ object Day05 {
 }
 
 fun main() {
-    val data = DataParser.parseStrings("day05.txt", trim = false)
+    val data = DataParser.parseStrings("day05.txt")
 
     println("Solutions")
     println("Part one: ${getTopCrates(data)}")

@@ -33,3 +33,4 @@
 * [Day 3: Rucksack Reorganization](/src/main/kotlin/Day03.kt)
 * [Day 4: Camp Cleanup](/src/main/kotlin/Day04.kt)
 * [Day 5: Supply Stacks](/src/main/kotlin/Day05.kt)
+* [Day 6: Tuning Trouble](/src/main/kotlin/Day06.kt)
