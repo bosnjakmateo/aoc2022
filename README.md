@@ -35,3 +35,4 @@
 * [Day 5: Supply Stacks](/src/main/kotlin/Day05.kt)
 * [Day 6: Tuning Trouble](/src/main/kotlin/Day06.kt)
 * [Day 7: No Space Left On Device](/src/main/kotlin/Day07.kt)
+* [Day 8: Treetop Tree House](/src/main/kotlin/Day08.kt)
